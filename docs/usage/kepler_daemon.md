@@ -1,5 +1,5 @@
 # Kepler DaemonSet Customization
-Kepler enables a function to hybrid read environment variable from attributes directly (container.env) and from the ConfigMap. Note that, all steps will be operated by [Kepler Operator](https://github.com/sustainable-computing-io/kepler-operator) if the operator is installed.
+Kepler enables a function to hybrid read environment variables from attributes directly (container.env) and from the ConfigMap. Note that all steps will be operated by [Kepler Operator](https://github.com/sustainable-computing-io/kepler-operator) if the operator is installed.
 
 To set environments by ConfigMap:
 
